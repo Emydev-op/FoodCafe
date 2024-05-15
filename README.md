@@ -1,6 +1,6 @@
 # FoodCafe-React-Native-App
 
-![alt text](https://github.com/Emydev-op/FoodCafe/blob/image/foodcafe-splash.jpg?raw=true)
+![alt text](https://github.com/Emydev-op/FoodCafe/blob/main/foodcafe-splash.jpg?raw=true)
 
 ## Get Started
 
